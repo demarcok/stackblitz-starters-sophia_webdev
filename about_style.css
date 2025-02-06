@@ -39,7 +39,7 @@ header nav a {
 }
 
 header nav a:hover {
-  background-color: #49b8a5;
+  background-color: #519c4f;
   color: #fff;
   border-radius: 5px;
 }
@@ -74,7 +74,7 @@ footer .subscribe button {
 }
 
 footer .subscribe button:hover {
-  background-color: #013c4a;
+  background-color: #519c4f;
 }
 
 footer .social-links {
@@ -92,7 +92,7 @@ footer nav a {
 }
 
 footer nav a:hover {
-  background-color: #49b8a5;
+  background-color: #519c4f;
   color: #fff;
   border-radius: 5px;
 }
@@ -147,7 +147,7 @@ footer nav a:hover {
 }
 
 .contact-form .submit:hover {
-  background-color: #013c4a;
+  background-color: #519c4f;
 }
 
 .contact-form .clear {
@@ -157,5 +157,5 @@ footer nav a:hover {
 }
 
 .contact-form .clear:hover {
-  background-color: #555555;
+  background-color: #519c4f;
 }
